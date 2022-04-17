@@ -20,7 +20,9 @@
 ### Collect Dataset
 
 * Need images of food and not food
+
 !(HotDog Vs Not HotDog)[https://github.com/pirate-datenscienticfic/Food-vs-NotFood/blob/main/hotdog-not-hotdog.jpg]
+
 * ML model motto: "If I had 8 hours to build learning model, I'd spend the first 6 hours preparing my dataset."
 
 ### Model Dataset
