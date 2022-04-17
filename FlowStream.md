@@ -20,6 +20,8 @@
 ### Collect Dataset
 
 * Need images of food and not food
+    * For images of Not Food: Download random images from imageNet
+    * For images of Food: random subset of images from Food101
 
 ![HotDog Vs Not HotDog](https://github.com/pirate-datenscienticfic/Food-vs-NotFood/blob/main/hotdog-not-hotdog.jpg)
 
@@ -27,4 +29,16 @@
 
 ### Model Dataset
 
-* 
+* Build a computer vision model to classify food and no food
+
+### Build Application
+
+* Simple HTML with JavaScript
+
+### Deploy model
+
+* We've got a few options here:
+    * Gradio
+    * TensorFlow.Js
+    * API?
+
